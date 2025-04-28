@@ -1,0 +1,11 @@
+{
+  "username": "Za-Long",
+  "domains": [
+    "myboi-admin.is-a.dev"
+  ],
+  "settings": {
+    "DNS": {
+      "cname": "cname.vercel-dns.com"
+    }
+  }
+}
